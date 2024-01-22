@@ -1,0 +1,57 @@
+<svg width="800" height="190" xmlns="http://www.w3.org/2000/svg">
+
+<rect width="800" height="200" fill="#5e5c64" />
+
+<g transform="translate(-30,125) scale(4,-4)">
+
+<g style="stroke-width:5;stroke-linecap:round;stroke-linejoin:round;fill:none">
+
+
+
+
+<path d="m 10,-1 0,26 -2,2" style="stroke:#FFF" />
+
+<path d="m 10,7 12,8" style="stroke:#FFF" />
+
+<path d="m 10,7 14,-2 -2,-7" style="stroke:#FFF" />
+
+
+
+<path d="m 40,2 0,10 8,2 6,-4 0,-10 -8,-2 -6,4" style="stroke:#fff" />
+
+
+
+<path d="m 70,2 0,10 8,2 6,-4 0,-10 -8,-2 -6,4" style="stroke:#FFF" />
+
+<path d="m 84,0 2,-11 -12,0" style="stroke:#FFF" />
+
+<path d="m 84,10 2,2 " style="stroke:#FFF" />
+
+
+
+<path d="m 100,0 8,-2 6,2 0,4 -14,4 0,4 6,2 8,-2" style="stroke:#FFF" />
+
+
+
+<path d="m 128,14 2,-2 0,-10 4,-4 4,4 4,-4 4,4 0,12" style="stroke:#FFF" />
+<path d="m 138,4 0,6" style="stroke:#FFF" />
+
+
+
+<path d="m 160,5 6,0 9,4 -7,5 -8-4 0,-10 8,-2 6,3" style="stroke:#FFF" />
+
+
+
+<path d="m 188,-1 0,26 -2,2 " style="stroke:#FFF" />
+
+
+
+<path d="m 202,-1 0,26 -2,2 " style="stroke:#FFF" />
+
+
+
+</g>
+
+</g>
+
+</svg>

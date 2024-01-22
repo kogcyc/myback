@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733335"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="k-avatar.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.0371094"
+     inkscape:cx="135.9548"
+     inkscape:cy="70.870056"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <circle
+     style="fill:#cccccc;stroke-width:0.532978"
+     id="path846"
+     cx="33.866665"
+     cy="33.866665"
+     r="33.866665" />
+  <g
+     aria-label="k"
+     id="text3148"
+     style="font-size:64.6142px;fill:#000000;stroke-width:1.61536">
+    <path
+       d="m 40.189859,37.043077 q 5.615883,2.271593 5.615883,8.360724 v 7.571976 q 0,1.545945 -0.788748,2.303143 -2.145393,2.082293 -4.416986,1.072697 -2.303143,-0.978047 -2.303143,-3.37584 v -7.477326 q 0,-1.577495 -0.788747,-2.366243 -1.388196,-1.388195 -2.902591,-1.388195 h -3.659789 v 11.231764 q 0,1.514395 -0.820297,2.303143 -1.356646,1.388196 -2.523992,1.388196 -1.167346,0 -1.861444,-0.315499 -0.694098,-0.28395 -1.198896,-0.757198 -1.104247,-1.072697 -1.104247,-2.618642 V 11.298358 q 0,-1.5459449 0.820298,-2.3977922 1.325095,-1.3881956 2.96569,-1.3881956 1.577495,0 2.334693,0.8202974 1.388195,1.4197455 1.388195,2.9656904 V 36.06503 h 2.271593 l 5.931382,-12.241361 q 0.441698,-1.009597 1.388195,-1.545945 0.946497,-0.567898 1.924544,-0.567898 0.978047,0 1.861444,0.473248 0.883398,0.441699 1.388196,1.356646 0.536348,0.914947 0.536348,1.924544 0,0.978047 -0.441698,1.766794 z"
+       style="-inkscape-font-specification:Supermercado;fill:#000000"
+       id="path22154" />
+  </g>
+</svg>

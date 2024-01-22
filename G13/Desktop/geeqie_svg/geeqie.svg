@@ -1,0 +1,18 @@
+<svg width="2112" height="1632" xmlns="http://www.w3.org/2000/svg">
+
+<rect width="2112" height="1632" fill="#eee" />
+
+<g transform="translate(1056,816) scale(1,-1)">
+
+
+
+<circle cx="176.671" cy="341.0" r="341.0" stroke="#d50" stroke-width="5" fill="none" />
+<line x1="-549.11" y1="748.715" x2="-19.11" y2="748.715" stroke="#aaa" stroke-width="25" />/* TopTube */
+<line x1="-557.881" y1="777.405" x2="-400.0" y2="261.0" stroke="#aaa" stroke-width="28" />/* SeatTube */
+<line x1="176.671" y1="341.0" x2="7.558" y2="661.563" stroke="#aaa" stroke-width="22" />/* Fork */
+<line x1="176.671" y1="341.0" x2="111.642" y2="321.119" stroke="#aaa" stroke-width="0" />
+
+
+</g>
+
+</svg>

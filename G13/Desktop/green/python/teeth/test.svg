@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="300mm" height="300mm" viewBox="0 0 300 300">
+
+  <rect width="300" height="300" style="fill:rgb(255,255,0);stroke-width:0" />
+
+  <g transform="scale(1,-1) translate(150,-150)">
+
+    <path d="M 50 50 C 100 100 50 100 200 50 L 200 150 L 50 150 Z" stroke="#aaa" stroke-width="0" fill="#0ff" />
+
+  </g>
+
+</svg>

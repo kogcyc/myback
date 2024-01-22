@@ -1,0 +1,19 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+
+<rect width="600" height="400" fill="#5e5c64" />
+
+<g transform="translate(120,200) scale(1,-1)">
+
+<circle cx="0" cy="0" r="100" fill="none" stroke-width="5" stroke="#000"/>
+
+<circle cx="350" cy="0" r="100" fill="none" stroke-width="5" stroke="#000"/>
+
+<line x1="84.45" y1="161.7" x2="264.45" y2="161.7" stroke="#ace" stroke-width="5" />
+
+<line x1="140" y1="-30" x2="81.53" y2="171.26" stroke="#ace" stroke-width="5" />
+
+<circle cx="140" cy="-30" r="9" fill="#e01b24"/>130
+
+</g>
+
+</svg>

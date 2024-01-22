@@ -1,0 +1,19 @@
+<svg
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   xmlns:svg="http://www.w3.org/2000/svg">
+ />
+
+  <g
+
+     style="stroke:none;fill:#008080;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="scale(1)">
+    <rect
+       style="fill:#006080;"
+       width="25"
+       height="25"
+       x="10"
+       y="10" />
+  </g>
+</svg>

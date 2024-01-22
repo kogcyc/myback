@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg
+   width="96"
+   height="96"
+
+   fill="none"
+
+>
+
+    <rect width="48" height="48" stroke="none" fill="#090" />
+  
+    <circle cx="48" cy="48" r="24" stroke="none" fill="#c00" />
+
+</svg>

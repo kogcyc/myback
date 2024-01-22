@@ -1,0 +1,84 @@
+<svg width="2400" height="1900" xmlns="http://www.w3.org/2000/svg">
+
+
+<defs><style type="text/css">
+@font-face {font-family: "Courier Prime Bold";
+src: url('./Courier Prime Bold.ttf') format("truetype");}
+</style></defs>
+
+
+
+  <rect width="2000" height="1900" fill="#fff" />
+
+  <g transform="translate(1000,700) scale(1,-1)">
+
+    <circle cx="-450" cy="80" r="322" stroke="#241f31" stroke-width="19" fill="none" />
+    <circle cx="-450" cy="80" r="302" stroke="#b17715" stroke-width="22" fill="none" />
+
+    <line x1="0" y1="0" x2="-169.58" y2="554.66" stroke="#e01b24" stroke-width="28" />
+
+    <line x1="0" y1="0" x2="-450" y2="80" stroke="#e01b24" stroke-width="22" />
+
+
+
+    <line x1="-160.8" y1="525.97" x2="-447" y2="80" stroke="#e01b24" stroke-width="15" />
+
+    <circle cx="0" cy="0" r="20" fill="#e01b24" stroke="none" />
+    <circle cx="0" cy="0" r="15" fill="#fff" stroke="none" />
+
+
+<line x1="-160.8" y1="525.97" x2="409.2" y2="525.97" stroke="#e01b24" stroke-width="25" />
+
+<line x1="394.58" y1="573.79" x2="447.21" y2="401.65" stroke="#e01b24" stroke-width="32" />
+
+<line x1="435.51" y1="439.9" x2="0" y2="0" stroke="#e01b24" stroke-width="28" />
+
+
+    <g transform="translate(-446,71)">
+      <circle cx="0" cy="0" r="16" fill="#e01b24" />
+      <circle cx="0" cy="0" r="5" fill="#fff" />
+      <line x1="0" y1="0" x2="10" y2="-20" stroke="#fff" stroke-width="10" />
+
+
+<circle cx="-9" cy="18" r="7" fill="#e01b24" />
+    </g>
+
+  </g>
+
+<g transform=" translate(1150,482.5) rotate(-45)">
+<text fill="#fff" x="25" y="55" font-size="30" font-family="Courier Prime Bold" letter-spacing="8px">KOGSWELL</text>
+</g>
+
+
+</svg>
+
+
+
+
+
+
+
+
+
+
+
+<!--
+bb = new D2();
+st_top = bb.vectorTo(580,107);
+st_ss = bb.vectorTo(550,107);
+
+//bb.lineTo(st_top);
+
+csa = 180 - Math.atan(80/450)180 / Math.PI;
+csl = Math.sqrt(80**2 + 450**2)
+
+rdrop = bb.vectorTo(csl,csa)
+
+//bb.lineTo(rdrop);
+
+//rdrop.circleHere(384/2+30);
+
+st_ss.lineTo(rdrop);
+-->
+
+

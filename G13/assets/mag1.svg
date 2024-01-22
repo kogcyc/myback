@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866668"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="mag1.svg"
+   inkscape:export-filename="/home/matt/assets/mag1.png"
+   inkscape:export-xdpi="300.03644"
+   inkscape:export-ydpi="300.03644"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     width="128px"
+     inkscape:zoom="0.94608586"
+     inkscape:cx="225.13813"
+     inkscape:cy="210.34032"
+     inkscape:window-width="1366"
+     inkscape:window-height="702"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path31"
+       style="fill:#808080;stroke-width:0.972673"
+       d="M 49.134766 3.7792969 A 45.35433 45.35433 0 0 0 3.7792969 49.134766 A 45.35433 45.35433 0 0 0 49.134766 94.488281 A 45.35433 45.35433 0 0 0 72.955078 87.693359 L 109.98633 124.72461 L 124.72461 109.98633 L 87.693359 72.955078 A 45.35433 45.35433 0 0 0 94.488281 49.134766 A 45.35433 45.35433 0 0 0 49.134766 3.7792969 z M 49.134766 11.337891 A 37.795276 37.795276 0 0 1 86.929688 49.134766 A 37.795276 37.795276 0 0 1 49.134766 86.929688 A 37.795276 37.795276 0 0 1 11.337891 49.134766 A 37.795276 37.795276 0 0 1 49.134766 11.337891 z "
+       transform="scale(0.26458333)" />
+  </g>
+</svg>

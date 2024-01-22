@@ -1,0 +1,29 @@
+<svg width="100mm" height="100mm" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+
+<rect width="100mm" height="100mm" fill="#ffa" />
+
+<g transform="scale(1,-1)">
+<g transform="translate(50,-50)">
+
+  <path
+     style="fill:#b3b3b3;fill-opacity:0.99632;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 11.999999,-5.000001 h -12 c -2.999998,0 -4.999998,2.999999 -4.999998,4.999998 0,2.000001 2,5.000001 4.999998,5 h 12 C 10.030653,8.217191 5,11.999999 1,11.999999 h -2 c -6,0 -12,-4 -12,-12 C -13,-8 -7.000001,-12.000001 -1,-12 h 2 c 4.000001,0 9,3.999999 10.999999,6.999999 z"
+     id="path6489-3" />
+  <path
+     style="fill:#cccccc;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 11.999998,-5 h -12 C -3,-5 -5,-2.000001 -5,-2e-6 c 0,2.000001 2,5.000001 4.999998,5 h 12 C 10.030652,8.217192 5,9.999999 1,9.999999 h -2 c -2,0 -9,-2 -9,-10 C -10,-8 -3,-10 -1,-10 h 2 c 4.000001,0 8.999999,2 10.999998,5 z"
+     id="path6489" />
+
+<circle cx="0" cy="0" r="4.8" fill="#f50"></circle>
+
+</g>
+</g>
+
+<!--
+<circle cx="130" cy="60" r="4" fill="#aa0"></circle>
+<circle cx="150" cy="60" r="4" fill="#f00"></circle>
+<circle cx="160" cy="70" r="4" fill="#0a0"></circle>
+<circle cx="160" cy="80" r="4" fill="#44f"></circle>
+-->
+
+</svg>

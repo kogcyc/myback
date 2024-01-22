@@ -1,0 +1,23 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+
+<rect width="300" height="300" fill="#fea" />
+
+<g transform="translate(150,150)"><g transform="scale(1,-1)">
+
+<line x1="0.0" <y1="0.0" x2="-45.399" y2="89.101" stroke="#a55" stroke-width="8" />
+
+<path d="M 0 0 Q 14 -25 50 -30" stroke="#a55" stroke-width="8" fill="none" />
+
+<circle cx="50" cy="-32" r="7" fill="#a55" />
+<circle cx="50" cy="-32" r="2.4" fill="#fea" />
+<line x1="50" y1="-32" x2="50" y2="-40" stroke="#fea" stroke-width="4.8" />
+
+<circle cx="43" cy="-34" r="3" fill="#a55" />
+<circle cx="43" cy="-34" r="1.2" fill="#fea" />
+
+<circle cx="46" cy="-24" r="3" fill="#a55" />
+<circle cx="46" cy="-24" r="1.2" fill="#fea" />
+
+</g></g>
+
+</svg>

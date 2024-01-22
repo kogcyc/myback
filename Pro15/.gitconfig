@@ -1,0 +1,5 @@
+[user]
+	email = kogcyc@gmail.com
+	name = Matthew
+[credential]
+	helper = cache --timeout=360000

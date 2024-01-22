@@ -1,0 +1,21 @@
+<svg width="100mm" height="100mm" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+
+<rect width="100mm" height="100mm" fill="#ffa" />
+
+<g transform="scale(1,-1)">
+<g transform="translate(50,-50)">
+
+<path d="M 0,0 L 7.07,7.07 L 0,14.14 Z" fill="#f00" />
+<path d="M 0,0 L 10,0 L 10,10 Z" fill="#00f" />
+
+</g>
+</g>
+
+<!--
+<circle cx="130" cy="60" r="4" fill="#aa0"></circle>
+<circle cx="150" cy="60" r="4" fill="#f00"></circle>
+<circle cx="160" cy="70" r="4" fill="#0a0"></circle>
+<circle cx="160" cy="80" r="4" fill="#44f"></circle>
+-->
+
+</svg>

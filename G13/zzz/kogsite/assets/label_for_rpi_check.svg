@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 215.9 279.4"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="label_for_rpi.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="in"
+     borderlayer="true"
+     inkscape:zoom="1.6378133"
+     inkscape:cx="161.80111"
+     inkscape:cy="31.444366"
+     inkscape:window-width="1440"
+     inkscape:window-height="838"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;fill-opacity:0.996571;stroke-width:2.76173;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+       id="rect846"
+       width="84.696831"
+       height="25.64267"
+       x="6.3499999"
+       y="3.8099999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.8667px;line-height:1.25;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime';fill:#ffffff;stroke-width:0.1"
+       x="13.013089"
+       y="10.372025"
+       id="text1832"
+       transform="scale(0.88157936,1.1343278)"><tspan
+         sodipodi:role="line"
+         id="tspan1830"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime';fill:#ffffff;stroke-width:0.1"
+         x="13.013089"
+         y="10.372025">ssh matt@raspberrypi.local</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime';fill:#ffffff;stroke-width:0.1"
+         x="13.013089"
+         y="15.205403"
+         id="tspan1834">mysql -u root -p [kokokoko]</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime';fill:#ffffff;stroke-width:0.1"
+         x="13.013089"
+         y="20.038782"
+         id="tspan1836">mysql -u matt -h raspberrypi.local -p</tspan></text>
+  </g>
+</svg>
